@@ -7,11 +7,15 @@ Gather is a library that requires one external services:
 
 TODO
 
-## Intruduction
+## Introduction
 
 TODO
 
 ## Building
+
+TODO
+
+## Usage
 
 TODO
 
