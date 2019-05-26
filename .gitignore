@@ -2,7 +2,7 @@
 
 # Unity output folders
 /Library/
-/Builds/
+/[Bb]uilds/
 /obj/
 /Logs/
 /Temp/
@@ -31,3 +31,4 @@
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
