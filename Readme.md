@@ -1,5 +1,5 @@
 # Gather
-*Gather* is a generic resource-management system for accessing data from the cloud via an intermediate service. It Relies on [Flow](https://github.com/cschladetsch/Flow) and [Pyro](https://github.com/cschladetsch/Pyro) external libraries.
+*Gather* is a generic resource-management system for accessing data from the cloud via an intermediate service. It Relies on [Flow](https://github.com/cschladetsch/Flow) external libraries.
 
 # Gather - Distributed Resource Management
 
